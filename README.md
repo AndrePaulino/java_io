@@ -1,6 +1,6 @@
 # Java.io
 
-Código desenvolvido a partir do curso - [_Java e java.io: Streams, Reader e Writers_](https://alura.com.br/course/java-excecoes) da escola Alura
+Código desenvolvido a partir do curso - [_Java e java.io: Streams, Reader e Writers_](https://alura.com.br/course/java-trabalhando-com-io) da escola Alura
 
 <br>
 
